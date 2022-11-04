@@ -13,8 +13,9 @@
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=white" alt="Meduim Badge"/>
   </a>
 </div>
+<img src="https://komarev.com/ghpvc/?username=YusufSuleimanTahir&style=flat-square&color=blue" alt=""/>
 </div>
-### Hi there 👋
+About Me:
 
 <!--
 **YusufSuleimanTahir/YusufSuleimanTahir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
