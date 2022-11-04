@@ -15,7 +15,11 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=YusufSuleimanTahir&style=flat-square&color=blue" alt=""/>
 </div>
-About Me:
+
+<p>I'm Yusuf Suleiman Tahir,</p>
+
+<p>ML|DL Researcher, Software Developer, Hardware Enthusiast.</p>
+
 
 
 ### :fire: My Stats :
